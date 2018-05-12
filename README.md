@@ -198,7 +198,7 @@ if accountKit == nil {
 }
 ```
 
-10. Provide the Logout Flow
+## 10. Provide the Logout Flow
 
 You can invoke the logOut method to log a user out of Account Kit.
 
