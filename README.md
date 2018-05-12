@@ -208,6 +208,6 @@ accountKit.logOut()
 
 ## Next Steps
 
-- Customize the UI
-- Configure Country Codes for SMS
-- Customize Email Colors
+- [Customize the UI](https://developers.facebook.com/docs/accountkit/ios/customizing)
+- [Configure Country Codes for SMS](https://developers.facebook.com/docs/accountkit/ios/customizingcodes)
+- [Customize Email Colors](https://developers.facebook.com/docs/accountkit/customizingemail)
