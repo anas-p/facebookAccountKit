@@ -206,8 +206,6 @@ You can invoke the logOut method to log a user out of Account Kit.
 accountKit.logOut()
 ```
 
-Download sample project
-
 ## Next Steps
 
 - Customize the UI
