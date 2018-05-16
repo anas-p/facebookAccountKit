@@ -2,6 +2,10 @@
 
 Account Kit helps people quickly and easily register and log into your app using their phone number or email address as passwordless credentials. Account Kit is powered by Facebook's email and SMS sending infrastructure for reliable scalable performance with global reach. Because it uses email and phone number authentication, Account Kit doesn't require a Facebook account and is the ideal alternative to a social login.
 
+
+![workflow](https://github.com/anasamanp/facebookAccountKit/blob/master/workflow.png)
+
+
 ## 1. Select an App or Create a New App
 
 Select an app or create a new one from [facebook developer account](https://developers.facebook.com/docs/accountkit/ios)
